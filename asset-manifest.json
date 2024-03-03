@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/morereactpractice/static/css/main.3292250f.css",
+    "main.js": "/morereactpractice/static/js/main.137b25e3.js",
+    "index.html": "/morereactpractice/index.html",
+    "static/media/search.svg": "/morereactpractice/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.3292250f.css.map": "/morereactpractice/static/css/main.3292250f.css.map",
+    "main.137b25e3.js.map": "/morereactpractice/static/js/main.137b25e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.137b25e3.js"
+  ]
+}
